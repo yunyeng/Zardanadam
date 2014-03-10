@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="songURLs">
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 01 - Seninle Kafam Guzel.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 02 - Beni Seversen.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 03 - Gidiyor Gencligim.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 04 - Haksizlik Bu.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 05 - Mutluluk.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 06 - Kimsin Sen.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 07 - Tadim Yok.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 08 - Ask Deme Bana.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 09 - Koku.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kafam_seninle_guzel/Zardanadam - Kafam Seninle Guzel - 10 - Gel Bana.mp3</item>
+        
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 01 - Kalbim Yok.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 02 - Oldur Beni.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 03 - Park Yasak.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 04 - Sen.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 05 - Gozumun Yasini Sildim Ben.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 06 - Benim Yolum Ayri.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 07 - Birak Isini.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 08 - Tembellik Hakki.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 09 - Kacacagim.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 10 - Sana Bir Cift Sozum Var.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 11 - Yeniden.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 12 - Rovans.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/kalbim_yok/Zardanadam - Kalbim Yok - 13 - Ayna Ayna Soyle Bana.mp3</item>
+        
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 01 - Gucetapanlar.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 02 - Dibini Gor.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 03 - Benim Askim.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 04 - Sey.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 05 - Neden Dedim Kendime.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 06 - Ne Yaparsan Yap.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 07 - Hepsi Hepsi Hayat Nasil Olsa.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 08 - Mucize.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 09 - Senden Adam Olmaz Adamim.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 10 - Benim Gozlerim Ne Renk.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 11 - Ayni Yolda.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 12 - Balsaclim.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 13 - Guzel Kiz.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 14 - Asagi Yukari.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 15 - Tamambocegi.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/dibini_gor/Zardanadam - Dibini Gor - 16 - Neden Olmasin.mp3</item>
+        
+        <item>http://www.zardanadam.com/downloads/albums/sevgililer_gunu/Zardanadam - Sevgililer Gunu - 01 - Sevgililer Gunu.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/sevgililer_gunu/Zardanadam - Sevgililer Gunu - 02 - Bir Is Bir Es.mp3</item>
+        
+        <item>http://www.zardanadam.com/downloads/albums/sureyya/Zardanadam - Sureyya - 01 - Sureyya.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/sureyya/Zardanadam - Sureyya - 02 - Neden Olmasin.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/sureyya/Zardanadam - Sureyya - 03 - Sadece Kendime.mp3</item>
+        
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 01 - Kucuk Sirin Bir Cuma Aksami.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 02 - Burdayim Aslinda.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 03 - Celiskiler.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 04 - Hepsi Hepsi Hayat Nasil Olsa.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 05 - Boyle Demisti Ruzgar.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 06 - Gelmesen de Olur.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 07 - Mayis.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 08 - Sozler.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 09 - Beni Affet.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 10 - Sarisinlar Boktur.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 11 - Kirik.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 12 - Sorma.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/korsan/Zardanadam - Korsan - 13 - Ayip.mp3</item>
+        
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 01 - Tamambocegi.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 02 - Gidiyorum.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 03 - Hersey Gibi.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 04 - Ben Yokum Artik.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 05 - Oyun.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 06 - Sebep.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 07 - Biliyorsun Bunu.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 08 - Gozumun Yasini Sildim Ben.mp3</item>
+        <item>http://www.zardanadam.com/downloads/albums/tamambocegi/Zardanadam - Tamambocegi - 09 - Su Adamlar.mp3</item>
+   
+    </string-array>
+
+</resources>

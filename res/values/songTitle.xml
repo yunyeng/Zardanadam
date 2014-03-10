@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    	<string name="songTitle0">Seninle Kafam Güzel</string>
+		<string name="songTitle1">Beni Seversen</string>
+		<string name="songTitle2">Gidiyor Gençliğim</string>
+		<string name="songTitle3">Haksızlık Bu</string>
+		<string name="songTitle4">Mutluluk</string>
+		<string name="songTitle5">Kimsin Sen</string>
+		<string name="songTitle6">Tadım Yok</string>
+		<string name="songTitle7">Aşk Deme Bana</string>
+		<string name="songTitle8">Koku</string>
+		<string name="songTitle9">Gel Bana</string>
+		
+		<string name="songTitle10">Kalbim Yok</string>
+		<string name="songTitle11">Öldür Beni</string>
+		<string name="songTitle12">Park Yasak</string>
+		<string name="songTitle13">Sen</string>
+		<string name="songTitle14">Gözümün Yaşını Sildim Ben</string>
+		<string name="songTitle15">Benim Yolum Ayrı</string>
+		<string name="songTitle16">Bırak İşini</string>
+		<string name="songTitle17">Tembellik Hakkı</string>
+		<string name="songTitle18">Kaçacağım</string>
+		<string name="songTitle19">Sana Bir Çift Sözüm Var</string>
+		<string name="songTitle20">Yeniden</string>
+		<string name="songTitle21">Rövanş</string>
+		<string name="songTitle22">Ayna Ayna Söyle Bana</string>
+		
+		<string name="songTitle23">Gücetapanlar</string>
+		<string name="songTitle24">Dibini Gör</string>
+		<string name="songTitle25">Benim Aşkım</string>
+		<string name="songTitle26">Şey</string>
+		<string name="songTitle27">Neden Dedim Kendime</string>	 	 
+		<string name="songTitle28">Ne Yaparsan Yap</string>
+		<string name="songTitle29">Hepsi Hepsi Hayat Nasıl Olsa</string> 	 	 
+		<string name="songTitle30">Mucize</string>
+		<string name="songTitle31">Senden Adam Olmaz Adamım</string> 	 	 
+		<string name="songTitle32">Benim Gözlerim Ne Renk</string>
+		<string name="songTitle33">Aynı Yolda</string>
+		<string name="songTitle34">Balsaçlım</string>
+		<string name="songTitle35">Güzel Kız</string>
+		<string name="songTitle36">Aşağı Yukarı</string>
+		<string name="songTitle37">Tamamböceği</string>
+		<string name="songTitle38">Neden Olmasın</string>
+		
+		<string name="songTitle39">Sevgililer Günü</string>	 	 
+		<string name="songTitle40">Bir İş Bir Eş</string>
+		
+		<string name="songTitle41">Süreyya</string>	 	 
+		<string name="songTitle42">Neden Olmasın</string> 
+		<string name="songTitle43">Sadece Kendime</string>
+		
+		<string name="songTitle44">Küçük Şirin Bir Cuma Akşamı</string>	 	 
+		<string name="songTitle45">Buradayım Aslında</string>	 	 
+		<string name="songTitle46">Çelişkiler</string>	 	 
+		<string name="songTitle47">Hepsi Hepsi Hayat Nasıl Olsa</string>	 	 
+		<string name="songTitle48">Böyle Demişti Rüzgar</string>	 	 
+		<string name="songTitle49">Gelmesen de Olur</string>	 	 
+		<string name="songTitle50">Mayıs</string>	 	 
+		<string name="songTitle51">Sözler</string>	 	 
+		<string name="songTitle52">Beni Affet</string>	 	 
+		<string name="songTitle53">Sarışınlar Boktur</string>	 	 
+		<string name="songTitle54">Kırık</string>
+		<string name="songTitle55">Sorma</string>
+		<string name="songTitle56">Ayıp</string>
+		
+		<string name="songTitle57">Tamamböceği</string>	 	 
+		<string name="songTitle58">Gidiyorum</string>	 	 
+		<string name="songTitle59">Herşey Gibi</string>	 	 
+		<string name="songTitle60">Ben Yokum Artık</string>	 	 
+		<string name="songTitle61">Oyun</string>	 	 
+		<string name="songTitle62">Sebep</string>	 	 
+		<string name="songTitle63">Biliyorsun Bunu</string>	 	 
+		<string name="songTitle64">Gözümün Yaşını Sildim Ben</string>	 	 
+		<string name="songTitle65">Su Adamlar</string>
+		
+		<string-array name="songNames">
+		<item>@string/songTitle0</item>
+		<item>@string/songTitle1</item>
+		<item>@string/songTitle2</item>
+		<item>@string/songTitle3</item>
+		<item>@string/songTitle4</item>
+		<item>@string/songTitle5</item>
+		<item>@string/songTitle6</item>
+		<item>@string/songTitle7</item>
+		<item>@string/songTitle8</item>
+		<item>@string/songTitle9</item>
+		<item>@string/songTitle10</item>
+		<item>@string/songTitle11</item>
+		<item>@string/songTitle12</item>
+		<item>@string/songTitle13</item>
+		<item>@string/songTitle14</item>
+		<item>@string/songTitle15</item>
+		<item>@string/songTitle16</item>
+		<item>@string/songTitle17</item>
+		<item>@string/songTitle18</item>
+		<item>@string/songTitle19</item>
+		<item>@string/songTitle20</item>
+		<item>@string/songTitle21</item>
+		<item>@string/songTitle22</item>
+		<item>@string/songTitle23</item>
+		<item>@string/songTitle24</item>
+		<item>@string/songTitle25</item>
+		<item>@string/songTitle26</item>
+		<item>@string/songTitle27</item>
+		<item>@string/songTitle28</item>
+		<item>@string/songTitle29</item>
+		<item>@string/songTitle30</item>
+		<item>@string/songTitle31</item>
+		<item>@string/songTitle32</item>
+		<item>@string/songTitle33</item>
+		<item>@string/songTitle34</item>
+		<item>@string/songTitle35</item>
+		<item>@string/songTitle36</item>
+		<item>@string/songTitle37</item>
+		<item>@string/songTitle38</item>
+		<item>@string/songTitle39</item>
+		<item>@string/songTitle40</item>
+		<item>@string/songTitle41</item>
+		<item>@string/songTitle42</item>
+		<item>@string/songTitle43</item>
+		<item>@string/songTitle44</item>
+		<item>@string/songTitle45</item>
+		<item>@string/songTitle46</item>
+		<item>@string/songTitle47</item>
+		<item>@string/songTitle48</item>
+		<item>@string/songTitle49</item>
+		<item>@string/songTitle50</item>
+		<item>@string/songTitle51</item>
+		<item>@string/songTitle52</item>
+		<item>@string/songTitle53</item>
+		<item>@string/songTitle54</item>
+		<item>@string/songTitle55</item>
+		<item>@string/songTitle56</item>
+		<item>@string/songTitle57</item>
+		<item>@string/songTitle58</item>
+		<item>@string/songTitle59</item>
+		<item>@string/songTitle60</item>
+		<item>@string/songTitle61</item>
+		<item>@string/songTitle62</item>
+		<item>@string/songTitle63</item>
+		<item>@string/songTitle64</item>
+		<item>@string/songTitle65</item>
+		</string-array>
+    
+</resources>

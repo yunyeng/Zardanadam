@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="albumTitle0">Kafam Seninle Güzel 2009</string>
+		<string name="albumTitle1">Kalbim Yok 2006</string>
+		<string name="albumTitle2">Dibini Gör 2005</string>
+		<string name="albumTitle3">Sevgililer Günü 2004</string>
+		<string name="albumTitle4">Süreyya 2003</string>
+		<string name="albumTitle5">Korsan 2002</string>
+		<string name="albumTitle6">Tamamböceği 2002</string>
+		
+		<string-array name="albumNames">
+		<item>@string/albumTitle0</item>
+		<item>@string/albumTitle1</item>
+		<item>@string/albumTitle2</item>
+		<item>@string/albumTitle3</item>
+		<item>@string/albumTitle4</item>
+		<item>@string/albumTitle5</item>
+		<item>@string/albumTitle6</item>
+		</string-array>
+    
+</resources>
